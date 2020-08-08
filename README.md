@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Jas like "Jazz" music 🎷! 
+
+Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse ● Google Cloud Certified
+
+www.jassohi.com
+
 <!--
 **j450h1/j450h1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
