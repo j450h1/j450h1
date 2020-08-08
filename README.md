@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jas like "Jazz" music 🎷! 
+I'm Jas “like Jazz🎺 music”!
 
 Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse ● Google Cloud Certified
 
