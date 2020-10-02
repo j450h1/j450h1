@@ -6,7 +6,7 @@ Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse ● Google Cloud
 
 www.jassohi.com
 
-<a href="https://github.com/ivyleavedtoadflax">
+<a href="https://github.com/j450h1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=j450h1&show_icons=true&theme=light&line_height=27" alt="j450h1's github stats"/>
 </a>
 
