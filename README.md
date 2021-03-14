@@ -2,7 +2,7 @@
 
 I'm Jas “like Jazz🎺 music”!
 
-Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse ● Google Cloud Certified
+Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse
 
 www.jassohi.com
 
