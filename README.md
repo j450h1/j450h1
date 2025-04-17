@@ -2,7 +2,7 @@
 
 I'm Jas “like Jazz🎺 music”!
 
-Data Scientist ● R ● Python ● SQL ● Shell ● tidyverse
+Data Scientist ● R ● Python ● SQL ● Bash
 
 www.jassohi.com
 
